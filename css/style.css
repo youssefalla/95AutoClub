@@ -8264,17 +8264,7 @@ a.btn-right {
 }
 
 .de_testi blockquote:before {
-  position: absolute;
-  font-family: "FontAwesome";
-  content: "\f10e";
-  color: rgba(var(--primary-color-rgb), .25);
-  z-index: 100;
-  font-size: 84px;
-  background: none;
-  top:20px;
-  right:0;
-  padding: 20px;
-  z-index:-1;
+  display: none;
 }
 
 
